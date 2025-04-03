@@ -1,2 +1,2 @@
-# myRepo
-My first github repository
+# Analysing Historic Jewish Press
+
